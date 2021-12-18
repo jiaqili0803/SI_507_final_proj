@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "country": "USA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -83.738751,
+                42.296027
+            ]
+        },
+        "current": {
+            "weather": {
+                "ts": "2021-12-17T07:00:00.000Z",
+                "tp": 1,
+                "pr": 1016,
+                "hu": 67,
+                "ws": 0.89,
+                "wd": 275,
+                "ic": "01n"
+            },
+            "pollution": {
+                "ts": "2021-12-17T07:00:00.000Z",
+                "aqius": 17,
+                "mainus": "p2",
+                "aqicn": 6,
+                "maincn": "p2"
+            }
+        }
+    }
+}

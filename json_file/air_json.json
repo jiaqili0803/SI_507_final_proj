@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Lansing",
+        "state": "Michigan",
+        "country": "USA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -84.536102,
+                42.737499
+            ]
+        },
+        "current": {
+            "weather": {
+                "ts": "2021-12-18T00:00:00.000Z",
+                "tp": 0,
+                "pr": 1023,
+                "hu": 70,
+                "ws": 3.09,
+                "wd": 40,
+                "ic": "01n"
+            },
+            "pollution": {
+                "ts": "2021-12-17T23:00:00.000Z",
+                "aqius": 54,
+                "mainus": "p2",
+                "aqicn": 20,
+                "maincn": "p2"
+            }
+        }
+    }
+}

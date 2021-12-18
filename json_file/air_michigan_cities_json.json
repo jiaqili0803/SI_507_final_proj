@@ -1,0 +1,131 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "city": "Adrian"
+        },
+        {
+            "city": "Allen Park"
+        },
+        {
+            "city": "Alpena"
+        },
+        {
+            "city": "Ann Arbor"
+        },
+        {
+            "city": "Athens"
+        },
+        {
+            "city": "Bay City"
+        },
+        {
+            "city": "Boyne City"
+        },
+        {
+            "city": "Clarkston"
+        },
+        {
+            "city": "Dearborn"
+        },
+        {
+            "city": "Detroit"
+        },
+        {
+            "city": "Flat Rock"
+        },
+        {
+            "city": "Flint"
+        },
+        {
+            "city": "Fraser"
+        },
+        {
+            "city": "Germfask"
+        },
+        {
+            "city": "Grand Rapids"
+        },
+        {
+            "city": "Harbor Springs"
+        },
+        {
+            "city": "Holland"
+        },
+        {
+            "city": "Kalamazoo"
+        },
+        {
+            "city": "Kentwood"
+        },
+        {
+            "city": "Lansing"
+        },
+        {
+            "city": "Leland"
+        },
+        {
+            "city": "Lexington"
+        },
+        {
+            "city": "Livonia"
+        },
+        {
+            "city": "Midland"
+        },
+        {
+            "city": "Muskegon"
+        },
+        {
+            "city": "New Haven"
+        },
+        {
+            "city": "Oak Park"
+        },
+        {
+            "city": "Oceana"
+        },
+        {
+            "city": "Okemos"
+        },
+        {
+            "city": "Pigeon"
+        },
+        {
+            "city": "Pontiac"
+        },
+        {
+            "city": "Port Huron"
+        },
+        {
+            "city": "Portage"
+        },
+        {
+            "city": "River Rouge"
+        },
+        {
+            "city": "Rogers City"
+        },
+        {
+            "city": "Sterling Heights"
+        },
+        {
+            "city": "Temperance"
+        },
+        {
+            "city": "Traverse City"
+        },
+        {
+            "city": "Walker"
+        },
+        {
+            "city": "West Bloomfield Township"
+        },
+        {
+            "city": "Wolverine Lake"
+        },
+        {
+            "city": "Ypsilanti"
+        }
+    ]
+}
