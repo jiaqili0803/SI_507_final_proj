@@ -38,4 +38,5 @@ Question1: Do you want to know solar radiation?
 `-Question2: Do you want to know UV Index??
 | +-('No', 'Yes')
 | `-('No', 'No')
+![image](https://user-images.githubusercontent.com/40383000/146625929-520f971c-4010-411f-b535-7a7aa1341f24.png)
 
