@@ -12,3 +12,30 @@ To run the code, you need to use an API key. My API key is put in the code, but 
 To run this program, you should have the numpy, request, and plotly graph objects packages installed. 
 
 Also, the program will automatically save the json.file of the data you collected and update it in the folder of json_file.
+
+About the Tree data structure:
+During the interaction, your replies to some questions will generate a Tree of your answer data. And the Tree data will be used to determine the data visualization pics for you.
+Example:
+# tree example:
+#                  Question1
+#                  /       \
+#                 Y         N
+#                /           \
+#             Ques2         Ques2
+#            /     \        /    \
+#         (Y, Y)  (Y, N)   (N, Y)  (N, N)
+# 
+# (Q1, (Q2, (Y,Y), (Y,N)), (Q2, (N,Y), (N,N))
+
+#########################
+######## The Tree #######
+#########################
+
+Question1: Do you want to know solar radiation?
++-Question2: Do you want to know UV Index?
+| +-('Yes', 'Yes')
+| `-('Yes', 'No')
+`-Question2: Do you want to know UV Index??
+| +-('No', 'Yes')
+| `-('No', 'No')
+
